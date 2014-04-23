@@ -1,0 +1,53 @@
+ h1 {
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    color: blue;
+    }
+
+ p
+    {
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    
+    text-align:center;
+    }
+   IMG.logo {
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       }
+   div.intro {
+   background-color: 065C63;
+   }
+   
+   p.balance {
+   color: white;
+   font-family:"Comic Sans MS", cursive, sans-serif;
+   font-size:200%;
+   }
+
+   p.headertitle {
+      margin-left: 10%;
+      margin-right: 10%;
+      font-size:250%;
+      color:brown;
+    }
+   div.letsseehowabackgroundlookshere {
+   background-color:#FFFFCC;
+   }
+   p.mainbody {
+   color:brown;
+   font-size:125% ;
+   margin-left: 15%;
+   margin-right: 15%;
+
+  }
+   li {
+   color:brown;
+   font-size:125%
+   font-family:"Comic Sans MS", cursive, sans-serif;
+   margin-left: 25%;
+   margin-right: 25%;
+   }
+
+   a {
+   color:red;
+   }
