@@ -1,0 +1,65 @@
+<html>
+ <head>
+  <title>
+   Doge4Housing
+  </title>
+
+  <style>
+   p
+    {
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    
+    text-align:center;
+    }
+   IMG.logo {
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       }
+   div.intro {
+   background-color: red;
+   }
+   
+   p#balance {
+   font-family:"Comic Sans MS", cursive, sans-serif;
+   font-size:250%;
+   }
+
+   p.headertitle {
+      font-size:250%;
+      color:red; 
+    }
+   div.letsseehowabackgroundlookshere {
+   background-color:yellow;
+   }
+   p.mainbody {
+   color:red;
+   } 
+
+  </style>
+
+ </head>
+ <body>
+  <div class="intro">
+   <img class="logo" src="images/sparekeylogo.png"></img>
+   <img class="logo" src="images/moolahQRdogecoin.png"></img>
+   <p id="balance">
+   <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+ <iframe src="balance.php"></iframe>
+</div>
+<div class="letsseehowabackgroundlookshere">
+<p class="headertitle">About Doge4Housing</p>
+   <p class="mainbody">Dogecoin has become like a second home to many Shibes. But Spare Key LLC works with families with terminally ill or critically injured children, families who are in danger of losing their first home. By providing rent and mortgage aid to these families, we aim to help them bounce but not break. </p>
+  <p class="headertitle">Thinking Local</p>
+   <p class="mainbody">The Shibe spirit connects the whole world, but some problems can best be changed at the local level. Spare Key will use its resources to find 5 Minnesotan families who dogecoin is best suited to help. Our initial fundraiser will be based in Minnesota, but we currently operate in three states, and plan on extending our reach in the coming months. </p>
+  <p class="headertitle">Building the Shibeconomy</p>
+
+   <p class="mainbody">Spare Key believes in the cryptocurrency economy. That's why we're willing to commit that 50% of every dollar value of Dogecoin we receive will be slotted to be paid to vendors that we do business with, including those who we pay rent and mortgage payments to, in the form of cryptocurrency.</p>
+
+   <p class="mainbody">We will keep this commitment for a minimum of 12 months upon receipt of currency. If at the end of that 12 months we cannot find vendors willing to accept the currency we would have the option to convert it into fiat US Dollars. '
+
+<p class="headertitle">Doing Our Part</p>
+<p class="mainbody">We would be willing to engage with any company that is involved in cryptocurrency to put their logos on our website, social media, etc, as a way to help drive traffic from others, including our followers, supporters, etc.</p>
+ </div>
+</body>
+</html>

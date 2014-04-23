@@ -1,0 +1,41 @@
+<html>
+ <head>
+  <title>
+  A test of the doge accepting system.
+  </title>
+ <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+</head>
+ <body>
+  <p class=supertitle>DOGE4HOUSING</p>
+   <img src="http://i.imgur.com/3MpNr80.gif"> 
+    <p>DM6m1LhcFsDrQbdu4HvXaEi2ithRMQDwFy</p>
+   <script type="text/javascript">
+    $(function fuckingapishowdotheywork()
+     {
+      $.post("https://moolah.ch/api/merchant/balance",
+       {
+        guid: "357_52e2d441721b1",
+        api_key: "sixteentons"
+       },
+     function(data, textStatus)
+      {
+          alert("Response from server: " + data);
+      });
+    });
+  </script>
+<!-- how do I CSS srrsly -->
+<!--CSSly-->
+<div id="divTest1"></div>
+<script type="text/javascript">
+$("#divTest1").text("data");
+</script>  
+
+<p class="headertitle">About Doge4Housing</p>
+   <p class="mainbody">Dogecoin has become like a second home to many Shibes. But Spare Key LLC works with families with terminally ill or critically injured children, families who are in danger of losing their first home. By providing rent and mortgage aid to these families, we aim to help them bounce but not break. </p>
+  <p class=headertitle">Thinking Local</p>
+   <p class="mainbody">The Shibe spirit connects the whole world, but some problems can best be changed at the local level. Spare Key will use its resources to find 5 Minnesotan families who dogecoin is best suited to help. Our initial fundraiser will be based in Minnesota, but we currently operate in three states, and plan on extending our reach in the coming months. </p>
+  <p class="headertitle">Building the Shibeconomy</p>
+
+   <p class="mainbody">Spare Key is a firm believer in cryptocurrency and the doge economy. That's why we're committing these resources only to landlords or banks who are willing to accept Dogecoin as rent aid. We don't want to be just another charity that converts all our holdings to fiat -- we want to build the moonrocket too. </p>
+ </body>
+</html>
