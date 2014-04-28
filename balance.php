@@ -15,7 +15,7 @@
     along with Doge4Housing.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-  $balance = file_get_contents('http://dogechain.info/chain/Dogecoin/q/addressbalance/D9u8Kxrxrqy6Rm5r12256tLTB3x2itt2px');
+  $balance = file_get_contents('http://dogechain.info/chain/Dogecoin/q/addressbalance/D8oLT9psebs1pPbX3nA4yV3ZkLVoWC21x2');
   $superformat = ' style="font-size: 175%; color: white"';
 echo "<h1 $superformat>";
 echo $balance;
