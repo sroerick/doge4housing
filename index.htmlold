@@ -2,18 +2,18 @@
 <!--
 This file is part of Doge4Housing.
 
-Doge4Housing is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+    Doge4Housing is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-Doge4Housing is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+    Doge4Housing is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with Doge4Housing. If not, see <http://www.gnu.org/licenses/>.
+    You should have received a copy of the GNU General Public License
+    along with Doge4Housing.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
  <head>
@@ -22,20 +22,39 @@ along with Doge4Housing. If not, see <http://www.gnu.org/licenses/>.
   </title>
 
 <link href="style.css" rel="stylesheet" type="text/css">
-<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script> 
 
 </head>
  <body>
    <a href="http://sparekey.org"><img class="logo" src="images/doge4housing.png"></img></a>
- <div class="intro">
- <p class="balance">Fundraiser Balance: </p>
+ <div class="intro">  
+ <p>.</p>
    <p id="balance">
 
-  <p class="balance">of 11,000,000 doge donated!</p>
-  <p class="balance">Come back soon to check our progress!</p>
-  <p class="balance" font-size="50%">Donate: D8oLT9psebs1pPbX3nA4yV3ZkLVoWC21x2</p>
+  <p class="balance">Out of a total</p>
+  <p class="balance">10,000,000 doge</p>
+  <p class="balance">Has been donated!</p>
+ 
+  <p class="balance" font-size="50%">D8oLT9psebs1pPbX3nA4yV3ZkLVoWC21x2</p>
  <script>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3c4877c... phewitsok
    $("#balance").html('<object type="text/html" data="balance.php">');
+  <script>
+=======
+>>>>>>> parent of cb61bd1... chromefix
+<<<<<<< HEAD
+=======
+>>>>>>> parent of cb61bd1... chromefix
+=======
+>>>>>>> parent of cb61bd1... chromefix
+=======
+>>>>>>> parent of 3c4877c... phewitsok
+   $("#balance").html('<object data="balance.php">');
   </script>
 <p>.</p>
 
@@ -45,16 +64,41 @@ along with Doge4Housing. If not, see <http://www.gnu.org/licenses/>.
    <p class="mainbody">Doge4Housing is a campaign to raise 10 million Dogecoin to make housing payments for 5 families in Minnesota.</p>
    <p class="mainbody">Spare Key is all about helping families with critically ill or seriously injured children in the hospital with a rental or mortgage grant.
 Since 1997 we have served nearly 2,200 families with housing grants totaling almost $2.2 million
-We've been amazed by the Dogecoin community's response to our efforts, and we want to help build the infrastructure for Dogecoin to continue helping people.
+We've been amazed by the Dogecoin community's response to our efforts, and we want to help build the infrastructure for Dogecoin to continue helping people.</p>
   <p class="headertitle">We've been working hard to bring positive press to Dogecoin and cryptocurrency.</p>
   <p class="mainbody"> We've been featured for our efforts to promote the use of crypto currency for good. Check out some of our work:</p>
   <p class="mainbody"><a href="http://www.sparekey.org/star-tribune-features-spare-key-on-front-page-on-story-about-crypto-currency/">We got Dogecoin on the front page of the Minneapolis Star Tribune</a>
   <p class="mainbody"><a href="http://www.sparekey.org/spare-key-leading-on-crypto-currency-for-non-profits-and-charities/">Spare Key Leading on Crypto Currency</a>
   <p class="mainbody"><a href="
 http://www.sparekey.org/chronicles-of-philanthropy-why-a-nonprofit-leader-embraces-virtual-currency/">Executive Director Erich Mische in a Star Tribune Op-Ed</a></p>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3c4877c... phewitsok
  <p class="mainbody"><a href="http://www.sparekey.org/spare-key-hires-director-of-crypto-currency-development-perhaps-first-in-the-nation/">We're the first non profit to hire a Director of Cryptocurrency Development, Roerick Sweeney.</a></p>
+=======
+ <p class="mainbody"><a href="http://www.sparekey.org/spare-key-hires-director-of-crypto-currency-development-perhaps-first-in-the-nation/">We've hired Roerick Sweeney, the first non-profit Director of Cryptocurrency Development in the world.</a></p>
+>>>>>>> 18bcef9eccf29a780dfaf73ad41e28ac27849885
+=======
+ <p class="mainbody"><a href="http://www.sparekey.org/spare-key-hires-director-of-crypto-currency-development-perhaps-first-in-the-nation/">We're the first non profit to hire a Director of Cryptocurrency Development.</a></p>
+>>>>>>> parent of cb61bd1... chromefix
+<<<<<<< HEAD
 
- <p class="headertitle">Doge4Housing is about helping families keep their homes or stay in their apartments.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/HUHFLZXQie4" frameborder="0" allowfullscreen></iframe>
+=======
+ <p class="mainbody"><a href="http://www.sparekey.org/spare-key-hires-director-of-crypto-currency-development-perhaps-first-in-the-nation/">We're the first non profit to hire a Director of Cryptocurrency Development.</a></p>
+>>>>>>> parent of cb61bd1... chromefix
+=======
+ <p class="mainbody"><a href="http://www.sparekey.org/spare-key-hires-director-of-crypto-currency-development-perhaps-first-in-the-nation/">We're the first non profit to hire a Director of Cryptocurrency Development.</a></p>
+>>>>>>> parent of cb61bd1... chromefix
+=======
+>>>>>>> parent of 3c4877c... phewitsok
+
+ <p class="headertitle">Doge4Housing is about helping families keep their homes or stay in their apartments. 
  <p class="mainbody">...and focus on their child's care and recovery. It's about giving families peace of mind from their bills. </p>
  <p class="mainbody">For some families it allows them to worry only about getting their child healthy and out of the hospital.</p>
  <p class="mainbody">For others it's about giving them the precious time they need to say goodbye to a child suffering from a life-ending illness or injury.</p>
@@ -74,10 +118,6 @@ Here's how we propose to use Doge4Housing:</p>
 
    <p class="mainbody">We will keep this commitment for a minimum of 12 months upon receipt of currency. If at the end of that 12 months we cannot find vendors willing to accept the currency we would have the option to convert it into fiat US Dollars. </p>
 
-<p class="headertitle">And now a quote from Jackson Palmer</p>
-<p class="mainbody">"It's always sad to see families displaced from their homes due to hefty medical bills, and Doge4Housing is a great campaign aimed to help those families out there currently struggling to focus on the most important thing -- their child's health -- while keeping a roof over their heads. Spare Key is a great cause, and I'm glad that the Dogecoin community can help rally behind it."
-<p class="mainbody">such founder. much pithy. so leadership. won hrefdogecoin hrefw.
-
 <p class="headertitle">Doing Our Part</p>
 <p class="mainbody">Spare Key will engage with any company that is involved in cryptocurrency to put their logos on our website, social media, etc, as a way to help drive traffic from others, including our followers, supporters, etc.</p>
 <p class="mainbody">Spare Key is looking to be an early adopter of the brave new crypto economy world.</p>
@@ -85,7 +125,7 @@ Here's how we propose to use Doge4Housing:</p>
 <p class="headertitle">Learn more about Spare Key, and help us help others:</p>
 <p class="mainbody"><a href="http://www.sparekey.org">Check out our website</a></p>
 <p class="mainbody"><a href="https://www.facebook.com/sparekey">Be a part of our Facebook Community</a></p>
-<p class="mainbody">Engage with us at twitter: <a href="http://twitter.com/sparekeymn">@sparekeymn</a></p>
+<p class="mainbody">Engage with us at twitter: @sparekeymn</p>
 <p class="mainbody">Follow us on Instagram</p>
  </div>
 </body>
