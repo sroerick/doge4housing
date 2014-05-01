@@ -16,7 +16,10 @@
 */
 
   $balance = file_get_contents('http://dogechain.info/chain/Dogecoin/q/addressbalance/D8oLT9psebs1pPbX3nA4yV3ZkLVoWC21x2');
-echo '<h1 style="fontsize: 175%; color: white">
-$balance;
-</h1>';
+$superformat = ' style="font-size: 175%; color: white"';
+echo "<h1 $superformat>";
+echo $balance;
+echo "</h1>"
+
+
 ?>
